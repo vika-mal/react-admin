@@ -1,0 +1,19 @@
+.table {
+    .tableCell {
+        text-transform: capitalize;
+    
+    }
+    .status{
+        padding: 5px;
+        border-radius: 5px;
+        &.Approved{
+            color: green;
+            background-color: rgba(16, 190, 88, 0.411);
+        }
+        &.Pending{
+            color: goldenrod;
+            background-color:  rgba(218, 165, 32, 0.192);
+        }
+    }
+    
+}
