@@ -34,7 +34,7 @@ const New = () => {
                 <input type="email" placeholder="john_smith@gmail.com" />
               </div>
               <div className="formInput">
-                <label>Phone</label>
+                <label>Tel</label>
                 <input type="text" placeholder="+1 234 567 89 10" />
               </div>
               <div className="formInput">
